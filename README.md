@@ -1,3 +1,5 @@
+# <p align="left"><a href="https://github.com/turtlecommmunity/telethonbot-base"><img src="https://github-readme-stats.vercel.app/api/pin?username=turtlecommmunity&show_icons=true&theme=dark&hide_border=true&repo=telethonbot-base"></a></p><p align="centre"><a href="https://t.me/turtlecommunitytg">
+
 <img src="https://telegra.ph/file/e74be9e4a2ffca7699dff.jpg">
 
 
@@ -17,5 +19,3 @@ For any queries or confusions you can join us on telegram from below
 
 <a href="https://t.me/turtlecommunitytg"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-# Status
-# <p align="left"><a href="https://github.com/turtlecommmunity/telethonbot-base"><img src="https://github-readme-stats.vercel.app/api/pin?username=turtlecommmunity&show_icons=true&theme=dark&hide_border=true&repo=telethonbot-base"></a></p><p align="centre"><a href="https://t.me/turtlecommunitytg">
