@@ -1,0 +1,36 @@
+{
+    "name": "telethonbot-base",
+    "description": "You Can Use This AS The Base Of Your Telegram's Telethon Bot",
+    "logo": "https://telegra.ph/file/e74be9e4a2ffca7699dff.jpg",
+    "keywords": [
+        "telegram",
+        "telethon",
+        "telegram-bot",
+		"telethonbot-base",
+		"telegrambot-base",
+		"turtlecommunitytg",
+        "turtlecommunity"
+    ],
+    "repository": "https://github.com/turtlecommmunity/telethonbot-base",
+    "website": "https://github.com/turtlecommmunity/telethonbot-base",
+    "success_url": "https://t.me/turtlecommunitytg",
+    "env": {
+        "API_HASH": {
+            "description": "Api Hash",
+            "value": ""
+        },
+        "APP_ID": {
+            "description": "Api Id",
+            "value": ""
+        },
+        "BOT_TOKEN": {
+            "description": "Bot Token That You Got From @botfather",
+            "value": ""
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
