@@ -1,6 +1,6 @@
 import requests
 import os
-from TurtleCommunity import Turtle
+from .. import Turtle
 from PIL import Image
 from telethon import events
 
